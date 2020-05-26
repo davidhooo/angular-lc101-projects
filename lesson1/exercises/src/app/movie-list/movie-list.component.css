@@ -1,8 +1,12 @@
 .movies {
   color: blue;
-  text-align: center;
+  text-align: left;
 }
 
 #movieList {
   font-size: large;
+}
+
+h3 {
+  text-align: center;
 }

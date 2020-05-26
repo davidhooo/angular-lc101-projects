@@ -1,0 +1,11 @@
+#videogames {
+  text-align: center;
+}
+
+#gameList {
+  list-style-position: inside;
+}
+
+h1 {
+  text-decoration: underline;
+}

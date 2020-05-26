@@ -1,0 +1,9 @@
+.container {
+  background-image: url("https://www.thespruce.com/thmb/aoNZvnb-P4vXT7qjKlJ0L0U7WEs=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/spruce-paint-color-swatch-magnolia-silos-white-18248ad7330247a8966b84195e93ba7a.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.col-3 {
+  border: solid black 2px;
+}

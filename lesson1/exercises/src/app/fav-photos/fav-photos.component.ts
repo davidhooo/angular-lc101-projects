@@ -6,7 +6,7 @@ import { Component, OnInit } from "@angular/core";
   styleUrls: ["./fav-photos.component.css"],
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = "The Very Bestest Photos shot by Potato Cameras";
+  photosTitle = "Potato Camera Photos";
   image1 =
     "https://d2cdo4blch85n8.cloudfront.net/wp-content/uploads/2016/11/SpudCam-Potato-Pinhole-Camera-image-1-630x525.jpg";
   image2 =
