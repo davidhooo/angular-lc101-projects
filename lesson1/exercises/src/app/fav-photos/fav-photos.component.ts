@@ -1,19 +1,20 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit } from "@angular/core";
 
 @Component({
-  selector: 'fav-photos',
-  templateUrl: './fav-photos.component.html',
-  styleUrls: ['./fav-photos.component.css']
+  selector: "fav-photos",
+  templateUrl: "./fav-photos.component.html",
+  styleUrls: ["./fav-photos.component.css"],
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Photo/Image Section Title Here';
-  image1 = 'https://www.launchcode.org/assets/icons/trophy-95e8cbe9bfda44123422302951deb1c92a237d39052669b8fbfafec00cb4f608.png';
-  image2 = '';
-  image3 = '';
+  photosTitle = "The Very Bestest Photos shot by Potato Cameras";
+  image1 =
+    "https://d2cdo4blch85n8.cloudfront.net/wp-content/uploads/2016/11/SpudCam-Potato-Pinhole-Camera-image-1-630x525.jpg";
+  image2 =
+    "https://d2cdo4blch85n8.cloudfront.net/wp-content/uploads/2018/06/Real-Potato-Camera-by-Corridor-Crew-image-2.jpg";
+  image3 =
+    "https://d2cdo4blch85n8.cloudfront.net/wp-content/uploads/2016/11/SpudCam-Potato-Pinhole-Camera-image-3-630x491.jpg";
 
-  constructor() { }
+  constructor() {}
 
-  ngOnInit() {
-  }
-
+  ngOnInit() {}
 }

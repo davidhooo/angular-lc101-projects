@@ -1,0 +1,16 @@
+#choreList {
+  font-size: larger;
+}
+
+.chores {
+  font-family: monospace;
+  color: red;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+li {
+  font-style: italic;
+}
