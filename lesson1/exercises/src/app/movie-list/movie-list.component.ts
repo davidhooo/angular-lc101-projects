@@ -11,6 +11,8 @@ export class MovieListComponent implements OnInit {
     "Oceans 8",
     "Hunt for The Wilderpeople",
     "Jojo Rabbit",
+    "The Midnight",
+    "Crazy Rich Asians"
   ];
 
   constructor() {}
